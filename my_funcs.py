@@ -16,4 +16,3 @@ def disturbed_sector(Le,De):
     alpha = 1.3*np.arctan(2.5*De/Le + 0.15)*180/np.pi + 10
     #convert to degrees
     return alpha
-    
